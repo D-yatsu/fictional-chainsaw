@@ -1,1 +1,5 @@
-TXT para aprender a usar o Git
+Texto inicial: TXT para aprender a usar o Git
+
+Novos Ajustes:
+Ajuste numero um para nova commit
+Ajuste em 29/ às 13:31
